@@ -3,7 +3,6 @@
 Platform Engineer
 - 🎓 **Education:** BSc Computer Science @ Queen’s University
 - 🌍 **Based in:** United Kingdom(UK)
-- 📫 **Contact:** lozovskiimaksim@gmail.com | [LinkedIn](https://www.linkedin.com/in/maksim-lozovskii-46b368252/)
 
 #### Skills
 ![Java](https://img.shields.io/badge/Java-f0d362?style=for-the-badge&logo=openjdk&logoColor=white)
