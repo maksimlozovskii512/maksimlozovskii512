@@ -4,6 +4,7 @@
 - 🔭 **Interest**:&emsp;&emsp;&nbsp;Distributed Systems
 - 🎓 **Education:**&emsp;&nbsp;BSc Computer Science @ Queen’s University Belfast
 - 🌍 **Based in:**&emsp;&emsp;Northern Ireland (UK)
+- 🌐 **Portfolio**:&emsp;&emsp;[URL](https://maksimlozovskii.github.io)
 
 #### Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)&nbsp; 
