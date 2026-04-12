@@ -5,15 +5,12 @@
 - 🎓 **Education:**&emsp;&nbsp;BSc Computer Science @ Queen’s University Belfast
 - 🌍 **Based in:**&emsp;&emsp;Northern Ireland (UK)
 - 🌐 **Portfolio**:&emsp;&emsp;[URL](https://maksimlozovskii.github.io)
+- 🏔️ **Main Hobby**: Mountaineering 🏔️
+
+![shield](https://img.shields.io/badge/currently-online-green)
 
 #### Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=github,jenkins)](https://skillicons.dev)&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=redis,postgresql)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,cs,dotnet,vscode,windows,azure,ubuntu,java,spring,maven,docker,kubernetes,prometheus,grafana,github,jenkins,aws,terraform,mysql,redis,postgresql,powershell,bash,apple,arduino,bootstrap,discord,elasticsearch,fastapi)](https://skillicons.dev)&nbsp;
 
 ![OPENAPI](https://img.shields.io/badge/OPENAPI-6aa84f?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![SWAGGER](https://img.shields.io/badge/swagger-8fce00?style=for-the-badge&logo=swagger&logoColor=white)
