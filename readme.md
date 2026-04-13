@@ -4,7 +4,6 @@
 - 🔭 **Interest**:&emsp;&emsp;&nbsp;Distributed Systems
 - 🎓 **Education:**&emsp;&nbsp;BSc Computer Science @ Queen’s University Belfast
 - 🌍 **Based in:**&emsp;&emsp;Northern Ireland (UK)
-- 🌐 **Portfolio**:&emsp;&emsp;[URL](https://maksimlozovskii.github.io)
 - 🏔️ **Main Hobby**: Mountaineering 🏔️
 
 ![shield](https://img.shields.io/badge/currently-online-green)
