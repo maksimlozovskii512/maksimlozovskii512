@@ -9,14 +9,5 @@
 
 ![shield](https://img.shields.io/badge/currently-online-green)
 
-#### Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,cs,dotnet,vscode,windows,azure,ubuntu,java,spring,maven,docker,kubernetes,prometheus,grafana,github,jenkins,aws,terraform,mysql,redis,postgresql,powershell,bash,apple,arduino,bootstrap,discord,elasticsearch,fastapi)](https://skillicons.dev)&nbsp;
-
-![OPENAPI](https://img.shields.io/badge/OPENAPI-6aa84f?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![SWAGGER](https://img.shields.io/badge/swagger-8fce00?style=for-the-badge&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=ffdd54)
-![HELM](https://img.shields.io/badge/Helm-4371e1?style=for-the-badge&logo=helm&logoColor=white)
-![KIBANA](https://img.shields.io/badge/Kibana-4CBCE5?style=for-the-badge&logo=kibana&logoColor=white)
-![DATADOG](https://img.shields.io/badge/DATADOG-A90EA9?style=for-the-badge&logo=datadog&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+#### Core Skills
+![My Skills](https://skillicons.dev/icons?i=idea,vscode,ubuntu,java,spring,maven,redis,postgresql,docker,kubernetes,prometheus,grafana,jenkins,aws,terraform)
