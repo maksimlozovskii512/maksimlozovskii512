@@ -6,7 +6,5 @@
 - 🌍 **Based in:**&emsp;&emsp;Northern Ireland (UK)
 - 🏔️ **Main Hobby**: Mountaineering 🏔️
 
-![shield](https://img.shields.io/badge/currently-online-green)
-
 #### Core Skills
 ![My Skills](https://skillicons.dev/icons?i=java,spring,maven,redis,postgresql,docker,kubernetes,prometheus,grafana,jenkins,aws,terraform)
