@@ -10,4 +10,4 @@
 ![shield](https://img.shields.io/badge/currently-online-green)
 
 #### Core Skills
-![My Skills](https://skillicons.dev/icons?i=idea,vscode,ubuntu,java,spring,maven,redis,postgresql,docker,kubernetes,prometheus,grafana,jenkins,aws,terraform)
+![My Skills](https://skillicons.dev/icons?i=java,spring,maven,redis,postgresql,docker,kubernetes,prometheus,grafana,jenkins,aws,terraform)
