@@ -7,7 +7,6 @@
 | 🧐 Focused on  | Reliability, Observability, System Design        |
 | 🎓 Education   | BSc Computer Science @ Queen’s University Belfast   |
 | 🌍 Based in    | Northern Ireland (UK)                               |
-| 🏔️ Main Hobby  | Mountaineering 🏔️                                   |
 
-#### My Stack
-![My Skills](https://skillicons.dev/icons?i=java,spring,maven,redis,postgresql,docker,kubernetes,prometheus,grafana,jenkins,aws,terraform)
+#### Tech Stack
+![My Skills](https://skillicons.dev/icons?i=java,spring,redis,postgresql,docker,kubernetes,prometheus,grafana,jenkins,aws,terraform)
