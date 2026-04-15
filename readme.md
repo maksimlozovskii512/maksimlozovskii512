@@ -1,9 +1,10 @@
+# 👋👋👋 Maksim Lozovskii 👋👋👋
 
-|    Maksim      |         Lozovskii                                   |
+|          |                                            |
 | -------------- | --------------------------------------------------- |
 | 👨‍💻 Role        | Software Engineer                                   |
 | 🔭 Core Skill  | Building scalable microservices on AWS              |
-| 🧐 Focused on  | Reliability, observability and system design        |
+| 🧐 Focused on  | Reliability, Observability, System Design        |
 | 🎓 Education   | BSc Computer Science @ Queen’s University Belfast   |
 | 🌍 Based in    | Northern Ireland (UK)                               |
 | 🏔️ Main Hobby  | Mountaineering 🏔️                                   |
